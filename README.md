@@ -16,6 +16,7 @@
 ### Github Stats
 
  ![Github Stats By Prathamesh](https://github-readme-stats.vercel.app/api?username=OmarCamaHuara&show_icons=true&title_color=fff&icon_color=fff&text_color=4564D7&bg_color=0A0A0A)
+ <br/>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarCamaHuara&show_icons=true&title_color=fff&icon_color=fff&text_color=4564D7&bg_color=0A0A0A)](https://github.com/OmarCamaHuara/github-readme-stats)
 
 
