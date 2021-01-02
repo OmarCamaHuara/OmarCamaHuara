@@ -22,19 +22,19 @@
 
 #### Thanks for visiting :heart:
 
-  <a href="www.linkedin.com/in/omar-js">
+  <a href="https://www.linkedin.com/in/omar-js" target="_blank">
     <img align="left" alt="Omar Cama H. | Linkedin" width="24px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
   </a>
-  <a href="https://www.facebook.com/omar.js.8">
+  <a href="https://www.facebook.com/omar.js.8" target="_blank">
     <img align="left" alt="Omar Cama H. | Facabook" width="26px" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" />
   </a>
-  <a href="https://www.instagram.com/domar.js/">
+  <a href="https://www.instagram.com/domar.js/" target="_blank">
     <img align="left" alt="Omar Cama H. | Instagram" width="24px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />
   </a>
-  <a href="mailto:omar.js2023@gmail.com">
+  <a href="mailto:omar.js2023@gmail.com" target="_blank">
     <img align="left" alt="Omar Cama H.a | Gmail" width="26px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" />
   </a>
-  <a href="https://linktr.ee/omar.js">
+  <a href="https://linktr.ee/omar.js" target="_blank">
     <img align="left" alt="Omar Cama H.a | Linktree" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/889/889844.svg" />
   </a>
   
