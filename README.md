@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![portada](https://user-images.githubusercontent.com/66935801/103464268-2118fa80-4d11-11eb-9a01-9c71f5088fe5.png)
+![facebook portada](https://user-images.githubusercontent.com/66935801/123857149-58e7b000-d8f8-11eb-9e68-4a59e4f85d12.png)
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 ### Programming Languages 🌐
