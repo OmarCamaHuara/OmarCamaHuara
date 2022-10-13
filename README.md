@@ -1,40 +1,30 @@
-### Hi there 👋
+### Hi there, I'm Omar 👋
 
-![facebook portada](https://user-images.githubusercontent.com/66935801/123857149-58e7b000-d8f8-11eb-9e68-4a59e4f85d12.png)
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+<p align="center">
+  <em>
+    I am 💙 about programming, this world is great!! <br>
+    Everyone helps everyone, <br>
+    that makes sense to me.<br>
+    Never stop learning 💚
+  </em>  
+</p>
+
+<h4 align="center">
+
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/arthurspk)](https://www.facebook.com/omar.js.8)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/domar.js/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/omar-js/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me//Omar28js)
+
+</h4>
 
 ### Programming Languages 🌐
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="24">](https://desarrolloweb.com/home/html) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="38">](https://lenguajecss.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js" width="38">](https://www.javascript.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" width="24">](https://java.com/es/) 
-|---|---|---|---|---|---|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarCamaHuara&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmarCamaHuara&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmarCamaHuara&theme=nord_dark) |
+| :-: | :-: | :-: |
 
-### Github Stats
-
- ![Github Stats By Prathamesh](https://github-readme-stats.vercel.app/api?username=OmarCamaHuara&show_icons=true&title_color=fff&icon_color=fff&text_color=4564D7&bg_color=0A0A0A)
- <br/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarCamaHuara&show_icons=true&title_color=fff&icon_color=fff&text_color=4564D7&bg_color=0A0A0A)](https://github.com/OmarCamaHuara/github-readme-stats)
-
-
-#### Thanks for visiting :heart:
-
-  <a href="https://www.linkedin.com/in/omar-js" target="_blank">
-    <img align="left" alt="Omar Cama H. | Linkedin" width="24px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
-  </a>
-  <a href="https://www.facebook.com/omar.js.8" target="_blank">
-    <img align="left" alt="Omar Cama H. | Facabook" width="26px" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" />
-  </a>
-  <a href="https://www.instagram.com/domar.js/" target="_blank">
-    <img align="left" alt="Omar Cama H. | Instagram" width="24px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />
-  </a>
-  <a href="mailto:omar.js2023@gmail.com" target="_blank">
-    <img align="left" alt="Omar Cama H.a | Gmail" width="26px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" />
-  </a>
-  <a href="https://linktr.ee/omar.js" target="_blank">
-    <img align="left" alt="Omar Cama H.a | Linktree" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/889/889844.svg" />
-  </a>
-  
-
-![VisitorCount](https://profile-counter.glitch.me/OmarCamaHuara/count.svg)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarCamaHuara&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=OmarCamaHuara&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 
 
 
